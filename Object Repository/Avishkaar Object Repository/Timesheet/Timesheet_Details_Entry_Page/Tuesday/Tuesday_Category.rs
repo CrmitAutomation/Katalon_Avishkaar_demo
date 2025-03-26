@@ -6,11 +6,11 @@
    <elementGuidId>cbdbddc4-4b5d-47a2-a40c-330c7d553138</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//tr[@data-daystr=&quot;Tue&quot;]//button[@name=&quot;Category&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@aria-controls=&quot;dropdown-element-113&quot;]</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
