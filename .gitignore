@@ -22,3 +22,8 @@ build
 /.classpath
 .svn/
 .cache/
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
