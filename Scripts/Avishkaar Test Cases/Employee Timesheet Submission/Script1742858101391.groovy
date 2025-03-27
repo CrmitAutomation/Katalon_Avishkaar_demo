@@ -45,7 +45,7 @@ WebUI.click(findTestObject('Avishkaar Object Repository/Timesheet/Date_Range_Pop
 
 WebUI.click(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Details_Entry_Page/Timesheet_Buttons/COE_Project'))
 
-/*WebUI.click(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Details_Entry_Page/Timesheet_Buttons/Upload_Proof_Button'))
+WebUI.click(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Details_Entry_Page/Timesheet_Buttons/Upload_Proof_Button'))
 
 String filePath = 'C:\\Users\\lakshmanan.harikrish\\Desktop\\Aviskaar Home Page.png'
 
@@ -67,7 +67,7 @@ robot.keyRelease(KeyEvent.VK_CONTROL)
 
 robot.keyPress(KeyEvent.VK_ENTER)
 
-robot.keyRelease(KeyEvent.VK_ENTER) */
+robot.keyRelease(KeyEvent.VK_ENTER) 
 
 WebUI.setText(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Details_Entry_Page/Monday/Monday_Date'), Monday_Date)
 

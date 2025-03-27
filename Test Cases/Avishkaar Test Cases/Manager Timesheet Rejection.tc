@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manager Timesheet Rejection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c484c96-90d5-4f6e-a05a-7e571f4d4703</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8f9ee1c-660a-49cb-9dde-dd6efd5d8d88</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test Rejection'</defaultValue>
+      <description></description>
+      <id>b8f9ee1c-660a-49cb-9dde-dd6efd5d8d88</id>
+      <masked>false</masked>
+      <name>Rejection_Comments</name>
+   </variable>
+</TestCaseEntity>

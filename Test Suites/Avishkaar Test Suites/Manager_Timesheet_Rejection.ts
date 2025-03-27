@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Manager_Timesheet_Rejection</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>fa452cd4-ad6d-4fea-9532-e1a169f890ad</testSuiteGuid>
+   <testCaseLink>
+      <guid>a326f808-1fc4-475b-aed9-146ccbe34e2d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Avishkaar Test Cases/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b28d9a56-2d61-40c8-b8b7-facf5c04e0b2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Avishkaar Data Files/Manager_Credentials</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b28d9a56-2d61-40c8-b8b7-facf5c04e0b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>b4a81dd2-b0a2-45ed-acea-a4568d903ec3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b28d9a56-2d61-40c8-b8b7-facf5c04e0b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>17b01d8d-4dad-41a6-854f-2f39c54772de</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5a4b293a-48a9-4803-9f3d-76e8f4b4d964</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Avishkaar Test Cases/Manager Timesheet Rejection</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b8f9ee1c-660a-49cb-9dde-dd6efd5d8d88</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d1a7579a-3d11-4f00-8c92-ffb849950703</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Avishkaar Test Cases/Logout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>
