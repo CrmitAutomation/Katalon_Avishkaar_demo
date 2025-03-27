@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Rejected Leave</name>
+   <tag></tag>
+   <elementGuidId>2a26a072-ce24-4c90-8587-819c24af0f3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='virtualAutocompleteListbox_b003b07830382']/li[6]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;My Rejected Leave&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>08928464-c634-4ba2-95b2-b27a7ec6c0df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> virtualAutocompleteOptionText</value>
+      <webElementGuid>83cf2467-6cc4-4f66-8f39-244dfece101a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>2896:0</value>
+      <webElementGuid>3a6dfc51-489d-4cec-b408-8f364bd9f3bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Rejected Leave</value>
+      <webElementGuid>7a2262dc-4783-4239-9271-2aa35a83afbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;virtualAutocompleteListbox_b003b07830382&quot;)/li[@class=&quot;slds-dropdown__item has-icon--left   forceVirtualAutocompleteMenuOption&quot;]/a[1]/span[@class=&quot;virtualAutocompleteOptionText&quot;]</value>
+      <webElementGuid>f93c988e-3fd7-497e-a1fa-b79e770d0d1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='virtualAutocompleteListbox_b003b07830382']/li[6]/a/span</value>
+      <webElementGuid>f7ad95a2-46c0-4786-ac13-84aa8b867b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[5]/following::span[1]</value>
+      <webElementGuid>21a6a61e-103c-4707-b6f1-55881b1c846e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cancelled Leave'])[1]/following::span[3]</value>
+      <webElementGuid>1b49f46d-5a0b-42db-806a-04ca35e902c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[6]/preceding::span[1]</value>
+      <webElementGuid>fbce489c-50e2-42ce-8ec1-96a9faa4f8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending Approvals'])[2]/preceding::span[3]</value>
+      <webElementGuid>082b9166-9975-4c84-bfac-89b6588890ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Rejected Leave']/parent::*</value>
+      <webElementGuid>3173b355-4f3b-44f6-9a62-7a020c435aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>7a37516c-ef49-43b4-b6f8-7d690c146bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'My Rejected Leave' or . = 'My Rejected Leave')]</value>
+      <webElementGuid>6144a82f-a350-464b-a99f-ed271e048d33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
