@@ -41,10 +41,6 @@ WebUI.enhancedClick(findTestObject('Manager_Objects/Select Pending Approval'))
 
 WebUI.delay(5)
 
-WebUI.enhancedClick(findTestObject('Emplyoee_Objects/All Leaves Section/Sort an Element'))
-
-WebUI.enhancedClick(findTestObject('Emplyoee_Objects/All Leaves Section/Sort an Element'))
-
 not_run: String Emp_Name = WebUI.getAttribute(findTestObject('Object Repository/Manager_Objects/Page_Employee Leave EL-4385/div_EmployeeChaithra K N'), 
     'value')
 
