@@ -80,7 +80,7 @@ WebUI.takeFullPageScreenshotAsCheckpoint(GlobalVariable.Username)
 
 WebUI.enhancedClick(findTestObject('Emplyoee_Objects/Apply Leave/Apply Button'))
 
-WebUI.takeFullPageScreenshotAsCheckpoint(Leave_Type)
+WebUI.takeFullPageScreenshotAsCheckpoint(findTestData('EDEN/Checkpoints').getValue(1, 1))
 
 WebUI.delay(10)
 
