@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description>Community Portal Login Test Case</description>
    <name>Login</name>
-   <tag></tag>
+   <tag>GenAI</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>9edacfc2-e34a-4012-9cbb-b81b41dafe5a</testCaseGuid>

@@ -126,6 +126,12 @@
          <value>Friday_Description</value>
          <variableId>05313f29-74f6-4835-9772-b2c1120bf15a</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f86e1971-ef43-48e3-9a98-542d37591a83</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>e8cda138-87a5-4ce5-89ba-8b8fa0cf60e0</guid>

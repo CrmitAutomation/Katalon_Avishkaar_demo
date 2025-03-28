@@ -27,6 +27,9 @@ import java.awt.Robot as Robot
 import java.awt.event.KeyEvent as KeyEvent
 import java.awt.Toolkit as Toolkit
 import java.awt.datatransfer.StringSelection as StringSelection
+import com.kms.katalon.core.testdata.TestData
+import com.kms.katalon.core.testdata.TestDataFactory
+
 
 WebUI.delay(3)
 
@@ -47,7 +50,15 @@ WebUI.click(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Deta
 
 WebUI.click(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Details_Entry_Page/Timesheet_Buttons/Upload_Proof_Button'))
 
-String filePath = 'C:\\Users\\lakshmanan.harikrish\\Desktop\\Aviskaar Home Page.png'
+//WebUI.uploadFile(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Details_Entry_Page/Timesheet_Buttons/Upload_Proof_Button'),
+//	RunConfiguration.getProjectDir() + '/Data Files/Images/img01.png')
+	
+// Load test data file
+//TestData imageData = TestDataFactory.findTestData("Data Files/Images/img01.png")
+//String imagePath = System.getProperty("user.dir") + "/Data Files/Images/img01.png"
+System.out.println(imagePath)
+
+/*String filePath = 'C:\\Users\\lakshmanan.harikrish\\Desktop\\Aviskaar Home Page.png'
 
 StringSelection ss = new StringSelection(filePath)
 
@@ -67,8 +78,7 @@ robot.keyRelease(KeyEvent.VK_CONTROL)
 
 robot.keyPress(KeyEvent.VK_ENTER)
 
-robot.keyRelease(KeyEvent.VK_ENTER) 
-
+robot.keyRelease(KeyEvent.VK_ENTER)*/
 WebUI.setText(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Details_Entry_Page/Monday/Monday_Date'), Monday_Date)
 
 WebUI.click(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Details_Entry_Page/Monday/Monday_Category'))

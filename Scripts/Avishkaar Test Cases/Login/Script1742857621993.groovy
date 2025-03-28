@@ -28,4 +28,3 @@ WebUI.setText(findTestObject('Avishkaar Object Repository/Login/Username'), User
 WebUI.setText(findTestObject('Avishkaar Object Repository/Login/Password'), Password)
 
 WebUI.click(findTestObject('Avishkaar Object Repository/Login/Login_Button'))
-

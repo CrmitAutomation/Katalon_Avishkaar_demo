@@ -78,6 +78,12 @@
       <value></value>
       <variableId>05313f29-74f6-4835-9772-b2c1120bf15a</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f86e1971-ef43-48e3-9a98-542d37591a83</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
@@ -161,5 +167,12 @@
       <id>05313f29-74f6-4835-9772-b2c1120bf15a</id>
       <masked>false</masked>
       <name>Friday_Description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f86e1971-ef43-48e3-9a98-542d37591a83</id>
+      <masked>false</masked>
+      <name>Image</name>
    </variable>
 </TestCaseEntity>

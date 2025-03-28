@@ -9,7 +9,7 @@
    <dataFileGUID>03de7a20-b2d7-40b6-8f64-2a791660a4bf</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>Mar+17%2C+2025 8 Mar+17%2C+2025 Katalon Mar+18%2C+2025 Studios Mar+19%2C+2025 Automation Mar+20%2C+2025 COE Mar+21%2C+2025 Demo</data>
+   <data>Mar+17%2C+2025 8 Mar+17%2C+2025 Katalon Mar+18%2C+2025 Studios Mar+19%2C+2025 Automation Mar+20%2C+2025 COE Mar+21%2C+2025 Demo https%3A%2F%2Fsftd1.my.site.com%2FCRMITCommunity%2Fs%2Flogin%2F%3Fec%3D302%26startURL%3D%252FCRMITCommunity%252Fs%252F</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>Date_Range</name>
@@ -68,6 +68,11 @@
    <internalDataColumns>
       <columnIndex>11</columnIndex>
       <name>Friday_Description</name>
+      <size>1</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>12</columnIndex>
+      <name>Images</name>
       <size>1</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
