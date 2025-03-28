@@ -56,7 +56,7 @@ WebUI.click(findTestObject('Avishkaar Object Repository/Timesheet/Timesheet_Deta
 // Load test data file
 //TestData imageData = TestDataFactory.findTestData("Data Files/Images/img01.png")
 //String imagePath = System.getProperty("user.dir") + "/Data Files/Images/img01.png"
-System.out.println(imagePath)
+System.out.println("Image is uploaded Successfully")
 
 /*String filePath = 'C:\\Users\\lakshmanan.harikrish\\Desktop\\Aviskaar Home Page.png'
 
